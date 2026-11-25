@@ -1,0 +1,9 @@
+* text=auto
+*.py text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.csv text eol=lf
+*.txt text eol=lf
+*.yml text eol=lf
+# Markdown 两个行末空格表示显式换行；保留历史章程的语义。
+*.md whitespace=-blank-at-eol

@@ -1,0 +1,38 @@
+# 本地环境和运行缓存
+/.venv/
+/.python/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+.DS_Store
+
+# 原始数据、软链接和不可变完整实验档案；公开摘要另存 reports/
+/data
+/results/
+
+# 凭据、机器配置、编辑器状态
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.aws/
+.codex/
+.agents/
+.idea/
+.vscode/
+
+# 临时发布副本、构建与安装产物
+/dist/
+/build/
+*.egg-info/
+*.tmp
+*.log
+
+# 本地研究纪律、冻结与阶段记录；公开实验说明统一在 REPORT.md
+/AGENTS.md
+/CHARTER.md
+/docs/

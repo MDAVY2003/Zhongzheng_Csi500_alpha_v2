@@ -1,0 +1,41 @@
+{
+  "description": "精简公开范围：README与单一实验报告，只展示最终IS四组和探索OOS四组。",
+  "root_files": [
+    "README.md",
+    ".gitignore",
+    ".gitattributes",
+    "pytest.ini",
+    "requirements.txt",
+    "requirements-lock.txt",
+    "requirements-download.txt",
+    "REPORT.md"
+  ],
+  "directories": [
+    "src",
+    "scripts",
+    "tests",
+    "config",
+    "reports"
+  ],
+  "allowed_suffixes": [
+    ".py",
+    ".md",
+    ".csv",
+    ".json",
+    ".txt"
+  ],
+  "max_file_bytes": 2000000,
+  "excluded_directories": [
+    "__pycache__",
+    ".pytest_cache",
+    ".git",
+    ".venv",
+    ".python",
+    "data",
+    "results",
+    ".aws",
+    ".codex",
+    ".agents"
+  ],
+  "license_status": "尚未声明开源许可证；维护者决定后单独审核加入。"
+}

@@ -1,0 +1,187 @@
+{
+  "description": "仅最终IS四组与探索OOS四组，来源文件未改写；本机路径脱敏。",
+  "files": [
+    {
+      "source": "results/v3_strict_window_fix_20261122_01/portfolio_is/comparison.csv",
+      "source_sha256": "02b10ab02c4c5d77d732988f7fa3a28795183f0486ab4ffd5078f24ad51cde1f",
+      "public_path": "v3_is/comparison.csv",
+      "public_sha256": "02b10ab02c4c5d77d732988f7fa3a28795183f0486ab4ffd5078f24ad51cde1f",
+      "transformed": false
+    },
+    {
+      "source": "results/v3_strict_window_fix_20261122_01/portfolio_is/v3_equal_nd3/performance.csv",
+      "source_sha256": "783ebc2f421bb4c4bcba0a6ca46f912cdc38b01ea61a7c78b70ca4fdfea2dab2",
+      "public_path": "v3_is/v3_equal_nd3/performance.csv",
+      "public_sha256": "783ebc2f421bb4c4bcba0a6ca46f912cdc38b01ea61a7c78b70ca4fdfea2dab2",
+      "transformed": false
+    },
+    {
+      "source": "results/v3_strict_window_fix_20261122_01/portfolio_is/v3_equal_nd3/yearly.csv",
+      "source_sha256": "a149f3d87666efda4c991e66f51d7435230412dda7669921be61c777d1167d1d",
+      "public_path": "v3_is/v3_equal_nd3/yearly.csv",
+      "public_sha256": "a149f3d87666efda4c991e66f51d7435230412dda7669921be61c777d1167d1d",
+      "transformed": false
+    },
+    {
+      "source": "results/v3_strict_window_fix_20261122_01/portfolio_is/v3_equal_nd3/yearly_matched.csv",
+      "source_sha256": "a52eb84b5c631ee5cbd1b57b997987ee2b069c383efe24fb65f05e1e46f70542",
+      "public_path": "v3_is/v3_equal_nd3/yearly_matched.csv",
+      "public_sha256": "a52eb84b5c631ee5cbd1b57b997987ee2b069c383efe24fb65f05e1e46f70542",
+      "transformed": false
+    },
+    {
+      "source": "results/v3_strict_window_fix_20261122_01/portfolio_is/v3_bucket4_nd3/performance.csv",
+      "source_sha256": "8642329dd75b98abbd9bfed68d01194d4d6533a402d23ef5dd451d54c4cd7a41",
+      "public_path": "v3_is/v3_bucket4_nd3/performance.csv",
+      "public_sha256": "8642329dd75b98abbd9bfed68d01194d4d6533a402d23ef5dd451d54c4cd7a41",
+      "transformed": false
+    },
+    {
+      "source": "results/v3_strict_window_fix_20261122_01/portfolio_is/v3_bucket4_nd3/yearly.csv",
+      "source_sha256": "214357e8725f40e359f1f72d2b3a3327ae8ab66a096a529945f257fe76775fb5",
+      "public_path": "v3_is/v3_bucket4_nd3/yearly.csv",
+      "public_sha256": "214357e8725f40e359f1f72d2b3a3327ae8ab66a096a529945f257fe76775fb5",
+      "transformed": false
+    },
+    {
+      "source": "results/v3_strict_window_fix_20261122_01/portfolio_is/v3_bucket4_nd3/yearly_matched.csv",
+      "source_sha256": "94a4a54cc45f1bfbf62d3bf348f201b7e67dc4c4822f553a25048a49829b7bed",
+      "public_path": "v3_is/v3_bucket4_nd3/yearly_matched.csv",
+      "public_sha256": "94a4a54cc45f1bfbf62d3bf348f201b7e67dc4c4822f553a25048a49829b7bed",
+      "transformed": false
+    },
+    {
+      "source": "results/v3_strict_window_fix_20261122_01/portfolio_is/v3_equal_nd5/performance.csv",
+      "source_sha256": "f73a5b4508ffd477f0ce44e54e1bdeeec4b929f6a63561e36cb54f2ecd945402",
+      "public_path": "v3_is/v3_equal_nd5/performance.csv",
+      "public_sha256": "f73a5b4508ffd477f0ce44e54e1bdeeec4b929f6a63561e36cb54f2ecd945402",
+      "transformed": false
+    },
+    {
+      "source": "results/v3_strict_window_fix_20261122_01/portfolio_is/v3_equal_nd5/yearly.csv",
+      "source_sha256": "abf819b59d08f8f540606ed4c13dcfe219ba6de814f0f8e172d4350064fe0caa",
+      "public_path": "v3_is/v3_equal_nd5/yearly.csv",
+      "public_sha256": "abf819b59d08f8f540606ed4c13dcfe219ba6de814f0f8e172d4350064fe0caa",
+      "transformed": false
+    },
+    {
+      "source": "results/v3_strict_window_fix_20261122_01/portfolio_is/v3_equal_nd5/yearly_matched.csv",
+      "source_sha256": "3a9d2a039ea6ecda5e3885ddd9576ae8f677d61ffb41d106d70f22f9e3dfd75e",
+      "public_path": "v3_is/v3_equal_nd5/yearly_matched.csv",
+      "public_sha256": "3a9d2a039ea6ecda5e3885ddd9576ae8f677d61ffb41d106d70f22f9e3dfd75e",
+      "transformed": false
+    },
+    {
+      "source": "results/v3_strict_window_fix_20261122_01/portfolio_is/v3_bucket4_nd5/performance.csv",
+      "source_sha256": "9aae962fd9db38d347e9ffd5354490f64c8b04236d549d63a62a722f8dcd0529",
+      "public_path": "v3_is/v3_bucket4_nd5/performance.csv",
+      "public_sha256": "9aae962fd9db38d347e9ffd5354490f64c8b04236d549d63a62a722f8dcd0529",
+      "transformed": false
+    },
+    {
+      "source": "results/v3_strict_window_fix_20261122_01/portfolio_is/v3_bucket4_nd5/yearly.csv",
+      "source_sha256": "feddd2bfa97e29b48ab04e2b91224e91a73b242a7acd2927502f4bcab7272281",
+      "public_path": "v3_is/v3_bucket4_nd5/yearly.csv",
+      "public_sha256": "feddd2bfa97e29b48ab04e2b91224e91a73b242a7acd2927502f4bcab7272281",
+      "transformed": false
+    },
+    {
+      "source": "results/v3_strict_window_fix_20261122_01/portfolio_is/v3_bucket4_nd5/yearly_matched.csv",
+      "source_sha256": "1708a508cc9f07b214dea5ef72d948e3c1115d22a477ba4fed7aa4fa24babc8c",
+      "public_path": "v3_is/v3_bucket4_nd5/yearly_matched.csv",
+      "public_sha256": "1708a508cc9f07b214dea5ef72d948e3c1115d22a477ba4fed7aa4fa24babc8c",
+      "transformed": false
+    },
+    {
+      "source": "results/v3_variants_oos/comparison.csv",
+      "source_sha256": "c84fa7363ad0dc4fff69d0f09f1c0d73ef3af8859a04751793c665a4f1c62f26",
+      "public_path": "v3_oos/comparison.csv",
+      "public_sha256": "c84fa7363ad0dc4fff69d0f09f1c0d73ef3af8859a04751793c665a4f1c62f26",
+      "transformed": false
+    },
+    {
+      "source": "results/v3_variants_oos/top15_short_middle_equal_nd3/performance.csv",
+      "source_sha256": "ee3b163f32879d858a9ce9bf3253c34bab03d1835fc26d6acbdeb7f55df2381c",
+      "public_path": "v3_oos/top15_short_middle_equal_nd3/performance.csv",
+      "public_sha256": "ee3b163f32879d858a9ce9bf3253c34bab03d1835fc26d6acbdeb7f55df2381c",
+      "transformed": false
+    },
+    {
+      "source": "results/v3_variants_oos/top15_short_middle_equal_nd3/yearly.csv",
+      "source_sha256": "d2851964ec278cf348c1448978860cf19ffc1546fce30245628c9cd55c57c8ca",
+      "public_path": "v3_oos/top15_short_middle_equal_nd3/yearly.csv",
+      "public_sha256": "d2851964ec278cf348c1448978860cf19ffc1546fce30245628c9cd55c57c8ca",
+      "transformed": false
+    },
+    {
+      "source": "results/v3_variants_oos/top15_short_middle_equal_nd3/factor_weights.csv",
+      "source_sha256": "9aba2f9abff023d45ee98314ccfaf476372d899173d8bddd7f707899d82736fe",
+      "public_path": "v3_oos/top15_short_middle_equal_nd3/factor_weights.csv",
+      "public_sha256": "9aba2f9abff023d45ee98314ccfaf476372d899173d8bddd7f707899d82736fe",
+      "transformed": false
+    },
+    {
+      "source": "results/v3_variants_oos/top15_short_middle_equal_nd5/performance.csv",
+      "source_sha256": "f8d687c292add18e99379edd315e784686cdb0816876b66529807de89f7ceb47",
+      "public_path": "v3_oos/top15_short_middle_equal_nd5/performance.csv",
+      "public_sha256": "f8d687c292add18e99379edd315e784686cdb0816876b66529807de89f7ceb47",
+      "transformed": false
+    },
+    {
+      "source": "results/v3_variants_oos/top15_short_middle_equal_nd5/yearly.csv",
+      "source_sha256": "b0410948f861b4c688ad2f6775e32d483b380ac375f51d40a9813fa30b730655",
+      "public_path": "v3_oos/top15_short_middle_equal_nd5/yearly.csv",
+      "public_sha256": "b0410948f861b4c688ad2f6775e32d483b380ac375f51d40a9813fa30b730655",
+      "transformed": false
+    },
+    {
+      "source": "results/v3_variants_oos/top15_short_middle_equal_nd5/factor_weights.csv",
+      "source_sha256": "9aba2f9abff023d45ee98314ccfaf476372d899173d8bddd7f707899d82736fe",
+      "public_path": "v3_oos/top15_short_middle_equal_nd5/factor_weights.csv",
+      "public_sha256": "9aba2f9abff023d45ee98314ccfaf476372d899173d8bddd7f707899d82736fe",
+      "transformed": false
+    },
+    {
+      "source": "results/v3_variants_oos/new_bucket_75_15_5_5_nd3/performance.csv",
+      "source_sha256": "3dcc815939f371b4e83355b557faa34e492d0fbb06d0254cb639f34658b31dda",
+      "public_path": "v3_oos/new_bucket_75_15_5_5_nd3/performance.csv",
+      "public_sha256": "3dcc815939f371b4e83355b557faa34e492d0fbb06d0254cb639f34658b31dda",
+      "transformed": false
+    },
+    {
+      "source": "results/v3_variants_oos/new_bucket_75_15_5_5_nd3/yearly.csv",
+      "source_sha256": "dd5c669d5c80d401d685f98c0cedd569bfb7e231f4aa0583ba64c7a68adeb81c",
+      "public_path": "v3_oos/new_bucket_75_15_5_5_nd3/yearly.csv",
+      "public_sha256": "dd5c669d5c80d401d685f98c0cedd569bfb7e231f4aa0583ba64c7a68adeb81c",
+      "transformed": false
+    },
+    {
+      "source": "results/v3_variants_oos/new_bucket_75_15_5_5_nd3/factor_weights.csv",
+      "source_sha256": "bc3681ad3ec324509512c60b87b70c12d3bdf2df28b0e57aa34d918240803d61",
+      "public_path": "v3_oos/new_bucket_75_15_5_5_nd3/factor_weights.csv",
+      "public_sha256": "bc3681ad3ec324509512c60b87b70c12d3bdf2df28b0e57aa34d918240803d61",
+      "transformed": false
+    },
+    {
+      "source": "results/v3_variants_oos/new_bucket_75_15_5_5_nd5/performance.csv",
+      "source_sha256": "74d2a506daa86aea4f5b30d8672fad566fbd9587fb6fbb7a6ebd80e5984120ee",
+      "public_path": "v3_oos/new_bucket_75_15_5_5_nd5/performance.csv",
+      "public_sha256": "74d2a506daa86aea4f5b30d8672fad566fbd9587fb6fbb7a6ebd80e5984120ee",
+      "transformed": false
+    },
+    {
+      "source": "results/v3_variants_oos/new_bucket_75_15_5_5_nd5/yearly.csv",
+      "source_sha256": "fd292dbf287ca63e64fe2aef2eccba76f27a0b9231249737b9cb62671668760f",
+      "public_path": "v3_oos/new_bucket_75_15_5_5_nd5/yearly.csv",
+      "public_sha256": "fd292dbf287ca63e64fe2aef2eccba76f27a0b9231249737b9cb62671668760f",
+      "transformed": false
+    },
+    {
+      "source": "results/v3_variants_oos/new_bucket_75_15_5_5_nd5/factor_weights.csv",
+      "source_sha256": "bc3681ad3ec324509512c60b87b70c12d3bdf2df28b0e57aa34d918240803d61",
+      "public_path": "v3_oos/new_bucket_75_15_5_5_nd5/factor_weights.csv",
+      "public_sha256": "bc3681ad3ec324509512c60b87b70c12d3bdf2df28b0e57aa34d918240803d61",
+      "transformed": false
+    }
+  ]
+}

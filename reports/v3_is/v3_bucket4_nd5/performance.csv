@@ -1,0 +1,2 @@
+valid_days,cumulative_return,annualized_return,annualized_volatility,annualized_sharpe,win_rate,final_net_value,max_drawdown,gross_cumulative_return,total_cost,annualized_turnover,average_stock_exposure,max_stock_count,mean_stock_count
+1215.0,0.09197330911135393,0.01841656957573168,0.1821087358883946,0.1915265390145001,0.5201646090534979,1.091973309111354,-0.300058903994357,0.29119291137587866,1771340.73,25.947871994428453,0.7776109266950247,80,79.98765432098766

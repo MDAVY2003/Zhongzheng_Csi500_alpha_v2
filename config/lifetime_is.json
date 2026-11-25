@@ -1,0 +1,28 @@
+{
+  "project": "CSI500_LongOnly_Alpha_v2",
+  "task": "D10_lifetime_IS_only",
+  "universe": "CSI500",
+  "period": {
+    "start": "2018-01-01",
+    "end": "2022-12-31"
+  },
+  "horizons": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+  "deciles": 10,
+  "direction_rule": "max_peak_D10",
+  "normal_half_life_threshold": 0.5,
+  "delayed_half_height_threshold": 0.5,
+  "lifetime_cap": 10,
+  "buckets": {
+    "short": [1, 2],
+    "middle": [3, 5],
+    "long": [6, 10],
+    "delayed": "separate"
+  },
+  "notes": [
+    "Only IS 2018-2022 is used; forward labels are truncated at 2022-12-31.",
+    "D10 is the equal-weight top-decile portfolio excess vs EW members, annualized as mean(daily)*252/h.",
+    "Direction is chosen by the highest peak D10 across h=1..10.",
+    "Normal lifetime is the D10 half-life; delayed lifetime is the half-height window around the peak.",
+    "Delayed factors are not sub-grouped; start, end and width are reported."
+  ]
+}
